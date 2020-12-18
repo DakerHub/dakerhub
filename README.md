@@ -9,8 +9,9 @@ var hobbies = ["Painting", "Archery", "Video games", "Coding"]
 ```
 
 ```go
-func ILike() {
-  work()
+func ILikeWorking() {
+  coding()
   go chat()
+  coding()
 }
 ```
