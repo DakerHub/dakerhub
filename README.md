@@ -1,16 +1,16 @@
-### Hi there 👋
+### 这里是Daker，请求建立连接
 
-<!--
-**DakerHub/dakerhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```sh
+$ echo name=Daker
+```
 
-Here are some ideas to get you started:
+```js
+var hobbies = ["Painting", "Archery", "Video games", "Coding"]
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```go
+func ILike() {
+  work()
+  go chat()
+}
+```
